@@ -1,0 +1,6 @@
+{
+  "name": "Khasman Elite Travel & Tours",
+  "description": "Premium luxury travel & tour agency for Northern Pakistan covering Hunza, Skardu, Fairy Meadows, and luxury Prado TZ transport rentals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
